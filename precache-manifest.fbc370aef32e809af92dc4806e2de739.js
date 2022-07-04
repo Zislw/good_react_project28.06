@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "879b262bff41560a98e1",
-    "url": "/good_react_project28.06/static/css/main.ab6c649d.chunk.css"
+    "revision": "649699681ed00e1fe933",
+    "url": "/good_react_project28.06/static/css/main.c697fcbc.chunk.css"
   },
   {
-    "revision": "879b262bff41560a98e1",
-    "url": "/good_react_project28.06/static/js/main.879b262b.chunk.js"
+    "revision": "649699681ed00e1fe933",
+    "url": "/good_react_project28.06/static/js/main.64969968.chunk.js"
   },
   {
     "revision": "0d630a3e1f21db7817dc",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/good_react_project28.06/static/js/runtime~main.f5ab42eb.js"
   },
   {
-    "revision": "20ae8df0a2d536bd5aea787f81dcac7a",
+    "revision": "0c7aafd1ddc430f5ac2935f7f13bae1a",
     "url": "/good_react_project28.06/index.html"
   }
 ];
